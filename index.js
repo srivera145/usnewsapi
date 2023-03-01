@@ -1,7 +1,7 @@
 const express = require('express');
 const axios = require('axios');
 const cheerio = require('cheerio');
-const PORT = process.env.PORT || 4060;
+const PORT = process.env.PORT;
 const app = express();
 
 const usnews = [
