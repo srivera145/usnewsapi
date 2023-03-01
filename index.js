@@ -6,7 +6,7 @@ const app = express();
 
 const usnews = [
   {
-     name: 'Google News US',
+    name: 'Google News US',
      link: 'https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen',
      base: 'https://news.google.com/'
    },
